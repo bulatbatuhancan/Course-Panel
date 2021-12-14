@@ -1,0 +1,43 @@
+C:\Users\Batuhan Can BULAT\source\repos\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.csprojAssemblyReference.cache
+C:\Users\Batuhan Can BULAT\source\repos\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.FrmGirişPaneli.resources
+C:\Users\Batuhan Can BULAT\source\repos\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.frmAnaPanel.resources
+C:\Users\Batuhan Can BULAT\source\repos\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.Properties.Resources.resources
+C:\Users\Batuhan Can BULAT\source\repos\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.csproj.GenerateResource.cache
+C:\Users\Batuhan Can BULAT\source\repos\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan Can BULAT\source\repos\GirişPaneli\GirişPaneli\bin\Debug\GirişPaneli.exe.config
+C:\Users\Batuhan Can BULAT\source\repos\GirişPaneli\GirişPaneli\bin\Debug\GirişPaneli.exe
+C:\Users\Batuhan Can BULAT\source\repos\GirişPaneli\GirişPaneli\bin\Debug\GirişPaneli.pdb
+C:\Users\Batuhan Can BULAT\source\repos\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.exe
+C:\Users\Batuhan Can BULAT\source\repos\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.pdb
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\bin\Debug\GirişPaneli.exe.config
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\bin\Debug\GirişPaneli.exe
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\bin\Debug\GirişPaneli.pdb
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.csprojAssemblyReference.cache
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.FrmGirişPaneli.resources
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.frmAnaPanel.resources
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.Properties.Resources.resources
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.csproj.GenerateResource.cache
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.exe
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.pdb
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.frmKayıtİşlemleri.resources
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.frmÖğrenciListesi.resources
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.frmÖdemePlanı.resources
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\bin\Debug\Klaslar.dll
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\bin\Debug\Klaslar.pdb
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.csproj.CopyComplete
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.frmKullanıcıEkle.resources
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.frmKullanıcıGüncelle.resources
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.frmBilgiGüncelle.resources
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.frmÖdemeİşlemleri.resources
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.frmÖdemeYap.resources
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\bin\Debug\Interop.WMPLib.dll
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\obj\Debug\Interop.WMPLib.dll
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.csproj.ResolveComReference.cache
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.frmMüzik.resources
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.frmMail.resources
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\obj\Debug\GirişPaneli.frmRaporlar.resources
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\bin\Debug\ÖğrenciYönetimi2020.mdf
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\GirişPaneli\bin\Debug\ÖğrenciYönetimi2020_log.ldf

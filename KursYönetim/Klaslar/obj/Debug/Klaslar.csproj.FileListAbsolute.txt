@@ -1,0 +1,5 @@
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\Klaslar\bin\Debug\Klaslar.dll
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\Klaslar\bin\Debug\Klaslar.pdb
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\Klaslar\obj\Debug\Klaslar.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\Klaslar\obj\Debug\Klaslar.dll
+C:\Users\Batuhan Can BULAT\Desktop\C# programming\GirişPaneli\Klaslar\obj\Debug\Klaslar.pdb
